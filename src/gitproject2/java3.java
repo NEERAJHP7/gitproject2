@@ -17,6 +17,7 @@ public class java3 {
 	            System.out.println("Palindrome Number");
 	        } else {
 	            System.out.println("Not a Palindrome Number");
+	            System.out.println("Not a Palindrome Number");
 	        }
 	    }
 
