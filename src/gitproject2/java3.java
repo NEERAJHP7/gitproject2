@@ -11,11 +11,13 @@ public class java3 {
 	            int digit = number % 10;
 	            reversed = reversed * 10 + digit;
 	            number = number / 10;
+	            
 	        }
 
 	        if (original == reversed) {
 	            System.out.println("Palindrome Number");
 	        } else {
+	            System.out.println("Not a Palindrome Number");
 	            System.out.println("Not a Palindrome Number");
 	            System.out.println("Not a Palindrome Number");
 	        }
