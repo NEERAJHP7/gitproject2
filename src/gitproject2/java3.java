@@ -10,7 +10,7 @@ public class java3 {
 	        while (number != 0) {
 	            int digit = number % 10;
 	            reversed = reversed * 10 + digit;
-	            number = number / 10;
+	            number = number / 5;
 	            
 	        }
 
